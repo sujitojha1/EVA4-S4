@@ -1,6 +1,6 @@
 # Assignement Session #4, EVA4 - TSAI
 
-Summary - Building convolution neural network for MNIST classification
+Summary - Training convolution neural network for MNIST classification with 20K parameters & acheiving 99.4% accuracy
 
 **Key features**
 
